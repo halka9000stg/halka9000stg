@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "mycjk";
+  src: url("./../font/Cjk_light-Regular.otf");
+  unicode-range: U+5618;
+}
+@font-face {
+  font-family: "Myfont";
+  src: url("./../font/Myfont-Regular.otf");
+  unicode-range: U+5618;
+}
