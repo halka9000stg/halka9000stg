@@ -1,19 +1,67 @@
-# HALKA9000-NIIP
+# HALKA9000-NIIP / Haruka Sato (佐藤陽花)
 
-<!--
-**HALKA9000-NIIP/HALKA9000-NIIP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> ![Build: buggy](https://img.shields.io/badge/build-buggy-yellow) > ![Pronoun: they/them](https://img.shields.io/badge/pronoun-they/them-blueviolet) > ![Language: ja](https://img.shields.io/badge/lang-ja-blue) > ![Language: en](https://img.shields.io/badge/lang-en-green) > ![Language: zh](https://img.shields.io/badge/lang-zh-green) > ![Discord: 佐藤陽花#7369](https://img.shields.io/badge/Discord-%E4%BD%90%E8%97%A4%E9%99%BD%E8%8A%B1%237369-blueviolet)
 
-Here are some ideas to get you started:
+Methematical (formal) humanities/art, computational music theory, philosophy, linguistics, public health, geography.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
+| Attribute                       | Value                                                                                                                                                                                            |
+| ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Generic name                    | 佐藤陽花 (Japanese: さとう はるか Roman: Haruka Sato), 松永拓也 (Japanese: まつなが たくや Roman: Takuya Matsunaga), etc. (aka 走水伊吹( Japanese: はしりみず いぶき, Roman: Ibuki Hashirimizu)) |
+| Alternative name                | 走水美穂代 (Japanese: はしりみず みほよ, Roman: Haruka Wasumi), 碧海陽花 (Japanese: あおみ はるか, Roman: Haruka Wasumi), etc.                                                                   |
+| Former name                     | 和澄陽花 (Japanese: わすみ はるか, Roman: Haruka Wasumi)                                                                                                                                         |
+| Pronoun                         | she/they/ze                                                                                                                                                                                      |
+| DOB                             | 2000-06-03                                                                                                                                                                                       |
+| Native speaker of               | Japanese language, Tokyo dialects, Metropolis dialect;Japanese language, Soma dialect Soma                                                                                                       |
+| Other languages                 | English, Lojban, Toki Pona                                                                                                                                                                       |
+| Favourite programming languages | Dart, Julia, Ruby, Rust, Java, C, C++, C#, F#, Haskell, OCaml, Javascript, Octave, Fantom, Nasm(NetWide Assembly), Lua, PHP, HSP                                                                 |
+| Making use of                   | Git, pLaTeX, Praat, QGIS, MediaWiki, WordPress                                                                                                                                                   |
+| Formats understood              | ,XML, SGML, (X)HTML, CSS, SVG, PNG, PDF, WL                                                                                                                                                      |
+| Caveats                         | Dissosiation, depersonalisation, discontinuous changes in personalities, possible psychosis (genetic influences, possible degradation in cognitive functions), ADHD                              |
+
+## Timeline
+
+- [x] 法人設立準備委（生活情報基盤研究機構, Menhera.org)
+- [x] 想像地図研究所 (IML) 関東支部
+- [x] Cyphanese Team member
+- [x] Virtual World Alubis member (geography)
+- [x] 猫股会会員，語学言語学界隈凡人部，鉄道鯖，言語界隈の左利き部 (both-handed)，言語の波止場 (admin role) on Discord
+- [x] **January 2020 -**: Director at 東京大学教養学部学生自治会 / IT 近代化推進チーム
+- [ ] **June 2020**: TA at TeaTime Tech Lab
+- [x] **March 2018**: 東京大学地文研究会地理部 67 期
+- [ ] **November 2017 - November 2019**: Web PM at 東大女装子コンテスト
+- [x] **April 2017 -**: Activist at 東京大学 TOPIA
+
+## Twitter accounts
+
+| Alphabet | ID                                                                               | Screen name     | Proper name        | Description                                  |
+| -------- | -------------------------------------------------------------------------------- | --------------- | ------------------ | -------------------------------------------- |
+| M        | [847315328744865793](https://twitter.com/intent/user?user_id=847315328744865793) | masora_m        | 真空は準安定       | 公開界隈リア垢——真空がみえる．               |
+| C        | [867272019359842304](https://twitter.com/intent/user?user_id=867272019359842304) | masora_c        | 学際垢（真空大学） | 大学用公開アカウント——越境する痴性．         |
+| T        | [825662013552488450](https://twitter.com/intent/user?user_id=825662013552488450) | menhera_org     | 真空の相転移       | 汎用鍵アカウント——真空を，もっと．           |
+| W        | [986129149029793793](https://twitter.com/intent/user?user_id=986129149029793793) | metastable_void | 真空温泉           | 業務用アカウント——真空の，机の上．           |
+| E        | \*\*\*                                                                           | \*\*\*          | 真空のエネルギー   | 縮小アカウント——真空の「好き」が詰まってる． |
+| R        | \*\*\*                                                                           | \*\*\*          | 文系垢             | 鍵リア垢．                                   |
+
+## Related DNS domains
+
+| Domain name   | Status(es)            | Description                                                                           |
+| ------------- | --------------------- | ------------------------------------------------------------------------------------- |
+| h09.eu        | iwantmyname.com / AWS | Menhera.org mail aliases, URI shortener? -> convert into personal communities?        |
+| menhera.org   | Route 53 / AWS        | Menhera.org organisational main domain                                                |
+| menhealer.org | Route 53 / AWS        | Menhera.org alias?                                                                    |
+| mnhr.org      | Google Domains / GCP  | Menhera.org short URIs?                                                               |
+| mnhr.jp       | Google Domains / GCP  | Menhera.org alias (JP organizational domain?) (TODO: update registration information) |
+| u-tokyo.app   | Google Domains / GCP  | 学生情報基盤計画試験                                                                  |
+
+## Enrollments
+
+### 地理部
+
+67 期無職．ぬいぐるみ班/ねこ班/おくすり班/言語班．
+
+### 東京大学教養学部学生自治会
+
+140/141 期理事．IT 近代化推進チーム．
 
 ## オープンライセンス適用宣言
 
