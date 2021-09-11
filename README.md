@@ -56,6 +56,8 @@ Funlier(m.)/Funlière(f.)<br />
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 <div style="width: 100%;text-align: right;">
 
+![Metrics_Lang](https://github.com/halka9000stg/halka9000stg/blob/master/github_metrics_lang.svg)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=halka9000stg&hide=html&line_height=30)
 ![halka9000stg's github stats](https://github-readme-stats.vercel.app/api?username=halka9000stg&show_icons=true&count_private=true&line_height=30)
 
@@ -66,11 +68,6 @@ Funlier(m.)/Funlière(f.)<br />
 </table>
 
 <table style="width: 100%;vertical-align: top;">
-<tr><td style="vertical-align: top; " colspan="2" >
-
-![Metrics_Lang](https://github.com/halka9000stg/halka9000stg/blob/master/github_metrics_lang.svg)
-
-</td></tr>
 <tr><td style="vertical-align: top;">
 
 ![Metrics_Iso](https://github.com/halka9000stg/halka9000stg/blob/master/github_metrics_iso.svg)
