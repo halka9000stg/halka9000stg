@@ -12,6 +12,9 @@
 
 <table style="width: 100%;vertical-align: top;">
 <tr><td style="vertical-align: top;">
+
+![Metrics_Intro](https://github.com/halka9000stg/halka9000stg/blob/master/github_metrics_intro.svg)
+
 キーワード：知的情報処理、分散処理、ブロックチェーン、情報技術の社会実装、自作OS(TRONディストリビューション)、自作プログラミング言語、生徒会論、教育政策、考現学、暗号数学、モジュラ形式
 
 <br /><br />
@@ -57,11 +60,20 @@ Funlier(m.)/Funlière(f.)<br />
 ![halka9000stg's github stats](https://github-readme-stats.vercel.app/api?username=halka9000stg&show_icons=true&count_private=true&line_height=30)
 
 </div>
+<table style="width: 100%;vertical-align: top;">
+<tr><td style="vertical-align: top;">
+![Metrics_Lang](https://github.com/halka9000stg/halka9000stg/blob/master/github_metrics_lang.svg)
+</td></tr>
+<tr><td style="vertical-align: top;">
+![Metrics_Iso](https://github.com/halka9000stg/halka9000stg/blob/master/github_metrics_iso.svg)
+</td><td style="width: 40%;">
+![Metrics_Sky](https://github.com/halka9000stg/halka9000stg/blob/master/github_metrics_sky.svg)
 </td></tr>
 </table>
 
-![Metrics](https://github.com/halka9000stg/halka9000stg/blob/master/github-metrics.svg)
 
+</td></tr>
+</table>
 ## Personal Data
 
 | Attribute               | Value                                                                                                                                                                                            |
