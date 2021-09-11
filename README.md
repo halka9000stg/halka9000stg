@@ -66,13 +66,19 @@ Funlier(m.)/Funlière(f.)<br />
 </table>
 
 <table style="width: 100%;vertical-align: top;">
-<tr><td style="vertical-align: top;">
+<tr><td style="vertical-align: top; " colspan="2" >
+
 ![Metrics_Lang](https://github.com/halka9000stg/halka9000stg/blob/master/github_metrics_lang.svg)
+
 </td></tr>
 <tr><td style="vertical-align: top;">
+
 ![Metrics_Iso](https://github.com/halka9000stg/halka9000stg/blob/master/github_metrics_iso.svg)
+
 </td><td style="width: 40%;">
+
 ![Metrics_Sky](https://github.com/halka9000stg/halka9000stg/blob/master/github_metrics_sky.svg)
+
 </td></tr>
 </table>
 
