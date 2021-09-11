@@ -13,7 +13,7 @@ on:
       - "main"
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  github-metrics:
+  github_metrics_intro:
     runs-on: ubuntu-latest
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
@@ -23,13 +23,40 @@ jobs:
         # ... other options
           plugin_introduction: yes
           plugin_introduction_title: yes # Hide section title
+          commits_authoring: halka9000stg@users.noreply.github.com
+  github_metrics_sky:
+    runs-on: ubuntu-latest
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+        # ... other options
           plugin_skyline: yes
           plugin_skyline_year: 2021            # Set to 0 to display current year
           plugin_skyline_frames: 120         # Use 60 frames (half-loop)
           plugin_skyline_quality: 1       # Set image quality
           plugin_skyline_compatibility: yes # Support additional browsers (⚠️ increases file size and reduce optimization)
+          commits_authoring: halka9000stg@users.noreply.github.com
+  github_metrics_iso:
+    runs-on: ubuntu-latest
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+        # ... other options
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year # Display full year instead of half year
+          commits_authoring: halka9000stg@users.noreply.github.com
+  github_metrics_lang:
+    runs-on: ubuntu-latest
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+        # ... other options
           plugin_languages: yes
           plugin_languages_details: bytes-size, percentage              # Additionally display total bytes size and percentage
           plugin_languages_threshold: 2%                                # Hides all languages less than 2%
@@ -39,3 +66,5 @@ jobs:
           plugin_languages_recent_days: 60  
           plugin_languages_indepth: no
           commits_authoring: halka9000stg@users.noreply.github.com
+
+
