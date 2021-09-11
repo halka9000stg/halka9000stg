@@ -60,6 +60,8 @@ Funlier(m.)/Funlière(f.)<br />
 </td></tr>
 </table>
 
+![Metrics](https://github.com/halka9000stg/halka9000stg/blob/master/github-metrics.svg)
+
 ## Personal Data
 
 | Attribute               | Value                                                                                                                                                                                            |
