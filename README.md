@@ -60,6 +60,11 @@ Funlier(m.)/Funlière(f.)<br />
 ![halka9000stg's github stats](https://github-readme-stats.vercel.app/api?username=halka9000stg&show_icons=true&count_private=true&line_height=30)
 
 </div>
+
+
+</td></tr>
+</table>
+
 <table style="width: 100%;vertical-align: top;">
 <tr><td style="vertical-align: top;">
 ![Metrics_Lang](https://github.com/halka9000stg/halka9000stg/blob/master/github_metrics_lang.svg)
@@ -72,8 +77,6 @@ Funlier(m.)/Funlière(f.)<br />
 </table>
 
 
-</td></tr>
-</table>
 ## Personal Data
 
 | Attribute               | Value                                                                                                                                                                                            |
