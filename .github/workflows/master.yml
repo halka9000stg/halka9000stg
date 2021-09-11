@@ -24,6 +24,9 @@ jobs:
           plugin_introduction: yes
           plugin_introduction_title: yes # Hide section title
           commits_authoring: halka9000stg@users.noreply.github.com
+      - name: Display the path
+        run: mv ./github-metrics.svg ./github_metrics_intro.svg
+        shell: bash
   github_metrics_sky:
     runs-on: ubuntu-latest
     steps:
@@ -38,6 +41,9 @@ jobs:
           plugin_skyline_quality: 1       # Set image quality
           plugin_skyline_compatibility: yes # Support additional browsers (⚠️ increases file size and reduce optimization)
           commits_authoring: halka9000stg@users.noreply.github.com
+      - name: Display the path
+        run: mv ./github-metrics.svg ./github_metrics_sky.svg
+        shell: bash
   github_metrics_iso:
     runs-on: ubuntu-latest
     steps:
@@ -49,6 +55,9 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year # Display full year instead of half year
           commits_authoring: halka9000stg@users.noreply.github.com
+      - name: Display the path
+        run: mv ./github-metrics.svg ./github_metrics_iso.svg
+        shell: bash
   github_metrics_lang:
     runs-on: ubuntu-latest
     steps:
@@ -66,5 +75,8 @@ jobs:
           plugin_languages_recent_days: 60  
           plugin_languages_indepth: no
           commits_authoring: halka9000stg@users.noreply.github.com
+      - name: Display the path
+        run: mv ./github-metrics.svg ./github_metrics_lang.svg
+        shell: bash
 
 
