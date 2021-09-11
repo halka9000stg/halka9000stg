@@ -13,11 +13,14 @@ on:
       - "main"
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  github_metrics_intro:
+  github_metrics:
     runs-on: ubuntu-latest
+    if: "github.repository == 'halka9000stg/halka9000stg'"
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: lowlighter/metrics@latest
+      - name: github_metrics_intro
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github_metrics_intro.svg
@@ -26,11 +29,9 @@ jobs:
           plugin_introduction_title: yes # Hide section title
           commits_authoring: halka9000stg@users.noreply.github.com
 
-github_metrics_sky:
-    runs-on: ubuntu-latest
-    steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: lowlighter/metrics@latest
+      - name: github_metrics_sky
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github_metrics_sky.svg
@@ -42,11 +43,9 @@ github_metrics_sky:
           plugin_skyline_compatibility: yes # Support additional browsers (⚠️ increases file size and reduce optimization)
           commits_authoring: halka9000stg@users.noreply.github.com
 
-  github_metrics_iso:
-    runs-on: ubuntu-latest
-    steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: lowlighter/metrics@latest
+      - name: github_metrics_iso
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github_metrics_iso.svg
@@ -55,11 +54,9 @@ github_metrics_sky:
           plugin_isocalendar_duration: full-year # Display full year instead of half year
           commits_authoring: halka9000stg@users.noreply.github.com
 
-  github_metrics_lang:
-    runs-on: ubuntu-latest
-    steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: lowlighter/metrics@latest
+      - name: github_metrics_lang
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github_metrics_lang.svg
