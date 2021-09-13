@@ -44,7 +44,7 @@ Funlier(m.)/Funlière(f.)<br />
 <h2>【目次】</h2>
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
+- [Contributions Calender Metrics](#contributions-calender-metrics)
 - [Personal Data](#personal-data)
 - [Academics](#academics)
 - [Technologies](#technologies)
@@ -54,6 +54,8 @@ Funlier(m.)/Funlière(f.)<br />
 - [オープンライセンス適用宣言](#%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%A9%E3%82%A4%E3%82%BB%E3%83%B3%E3%82%B9%E9%81%A9%E7%94%A8%E5%AE%A3%E8%A8%80)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+
 <div style="width: 100%;text-align: right;">
 
 ![Metrics_Lang](https://github.com/halka9000stg/halka9000stg/blob/master/github_metrics_lang.svg)
@@ -66,6 +68,8 @@ Funlier(m.)/Funlière(f.)<br />
 
 </td></tr>
 </table>
+
+## Contributions Calender Metrics
 
 <table style="width: 100%;vertical-align: top;">
 <tr><td style="vertical-align: top;">
