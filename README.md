@@ -85,42 +85,42 @@ Funlier(m.)/Funlière(f.)<br />
 
 ## Personal Data
 
-| Attribute               | Value                                                                                                                                                                                            |
-| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Generic name            | 佐藤陽花 (Japanese: さとう はるか Roman: Haruka Sato), 松永拓也 (Japanese: まつなが たくや Roman: Takuya Matsunaga), etc. (aka 走水伊吹( Japanese: はしりみず いぶき, Roman: Ibuki Hashirimizu)) |
-| Alternative name        | <!-- 走水美穂代 (Japanese: はしりみず みほよ, Roman: Haruka Wasumi), 碧海陽花 (Japanese: あおみ はるか, Roman: Haruka Wasumi), etc.        -->                        |
+| Attribute               | Value |
+| ----------------------- | -------------- |
+| Generic name            | (日本名) 佐藤陽花 (Kana: さとう はるか Roman: Haruka Sato), <br />(中華名) 藍徽陽(Bopo: ㄌㄤ ㄏㄨㄟㄧㄤ Kana: らん きよう Roman: HueiYang Lang), <br />(アイヌ名) エヤィヌニタㇰ(Roman: e=yay=nu-nitak), <br />(琉球名) 玻名城未涼(Kana: はなしろ みすず Roman: Misuzu Hanashiro), <br />(満州名) ~～～(Manchu: ～～ Kana: ～～ Roman: ～～), <br />(西洋名) ~～～(Deutsch: ～～ Britain: ～～ Kana: ～～), <br />(戸籍名) 松永拓也 (Kana: まつなが たくや Roman: Takuya Matsunaga), <br />etc.  |
+| Alternative name        | 走水伊吹 (Kana: はしりみず いぶき, Roman: Ibuki Hashirimizu), <br />八居実陽(Kana: やい みはる Roman: Miharu Yai), <!-- 走水美穂代 (Japanese: はしりみず みほよ, Roman: Haruka Wasumi), 碧海陽花 (Japanese: あおみ はるか, kana: Haruka Wasumi), etc.        -->                        |
 | Former name             | <!--和澄陽花 (Japanese: わすみ はるか, Roman: Haruka Wasumi)  -->     |
-| Pronoun                 | she/they/ze                                                                                                                                                                                      |
-| DOB                     | 18th June 2000                                                                                                                                                                                   |
-| Native Speaker of       | 日本語東京・首都圏方言;日本語浜通り・相馬方言 Soma                                                                                                                                               |
-| Other Natural Languages | English, 正體字中文台北官話, 廣州話香港片、Ελληνική γλώσσα、Gjuha shqipe、Αρbε̰ρίσ̈τ 、Vlaams、Áynu Ítak、ᠮᠠᠨᠵᡠ ᡤᡳᠰᡠᠨ、ᠰᡞᠪᡝ ᡤᡞᠰᡠᠨ                                                                  |
-| Caveats                 | Genderfluid, Multisexual, Asperger                                                                                                                                                               |
+| Pronoun                 | she/they/ze              |
+| DOB                     | 18th June 2000            |
+| Native Speaker of       | 日本語東京・首都圏方言;日本語浜通り・相馬方言 Soma |
+| Other Natural Languages | English, 正體字中文台北官話, 廣州話香港片、Ελληνική γλώσσα、Gjuha shqipe、Αρbε̰ρίσ̈τ 、Vlaams、Áynu Ítak、ᠮᠠᠨᠵᡠ ᡤᡳᠰᡠᠨ、ᠰᡞᠪᡝ ᡤᡞᠰᡠᠨ |
+| Caveats                 | Genderfluid, Multisexual, Asperger |
 
 ## Academics
 
-| Attribute          | Value                                                                                                                                                                              |
-| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Attribute          | Value |
+| ------------------ | ---------- |
 | 専門分野(情報学系) | (専攻)知的情報処理、分散処理・並行処理、コンピュータ言語言語情報処理、知識情報学、法情報学、社会情報学、計算機工学、暗号<br />(周辺領域)情報統計、HPS、機械学習、ネットワーク通信<br />(副専攻)情報セキュリティ、航空制御情報処理    |
 | 専門分野(社会学系) | (教育学)中等教育学、生徒会論<br />(法学)教育行政法学、公共政策学<br />(民族学)考現学、学校生活学<br />(経済学)マクロ経済学、数理経済学、社会選択理論、厚生経済学、経済統計、会計学 |
-| 専門分野(理工学系) | (数学)数論、楕円曲線、アーベル多様体、モジュラ形式、解析学、微積分学<br />(交通工学)特に鉄道政策論、鉄道機構論、交通制御工学                                                       |
-| 専門分野(人文学系) | (言語学)比較言語学、日本方言学、言語分類学、言語情報学                                                                                                                             |
-| 所属学校           | (学生(学部))日本大学理工学部応用情報工学科<br />(指導員(OB, ボラ))都立八潮高等学校理数研究部                                                                                                       |
-| 所属学会等           | (現在)IPSJ 　情報処理学会、gnssforum.org 　全地球航法衛星システムフォーラム<br />(予定)EIC 　電子情報通信学会                                                                      |
-| 所属機関           | <!--Supoijar.org 　日本先進学術研究公共機構連合社、-->DevelopersPackages                                                                                                                  |
+| 専門分野(理工学系) | (数学)数論、楕円曲線、アーベル多様体、モジュラ形式、解析学、微積分学<br />(交通工学)特に鉄道政策論、鉄道機構論、交通制御工学 |
+| 専門分野(人文学系) | (言語学)比較言語学、日本方言学、言語分類学、言語情報学 |
+| 所属学校           | (学生(学部))日本大学理工学部応用情報工学科<br />(指導員(OB, ボラ))都立八潮高等学校理数研究部 |
+| 所属学会等           | (現在)IPSJ 　情報処理学会、gnssforum.org 　全地球航法衛星システムフォーラム<br />(予定)EIC 　電子情報通信学会 |
+| 所属機関           | <!--Supoijar.org 　日本先進学術研究公共機構連合社、-->DevelopersPackages |
 
 ## Technologies
 
-| Attribute                              | Value                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Attribute | Value |
+| -------------------------------------- | ----------------------- |
 | Main-Use OS                            | <img src="https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat"><img src="https://img.shields.io/badge/-Linux-6C6694.svg?logo=linux&style=flat"><br />Windows, Linux, TRON                                                                                                                                                                                                                                                                                                                                                   |
 | Favorite & Main-use Computer Languages | <img src="https://img.shields.io/badge/-Dart-99ccff.svg?logo=dart&style=plastic"><img src="https://img.shields.io/badge/-Go-76E1FE.svg?logo=go&style=plastic"><img src="https://img.shields.io/badge/-Julia-66ffb2.svg?logo=julia&style=plastic"><img src="https://img.shields.io/badge/-Rust-000000.svg?logo=rust&style=plastic"><img src="https://img.shields.io/badge/-Ruby-CC342D.svg?logo=ruby&style=plastic"><img src="https://img.shields.io/badge/-Scala-DC322F.svg?logo=scala&style=plastic"><br />Dart, Go, Julia, Rust, Ruby, Scala   |
 | Proficient Computer Languages          | <img src="https://img.shields.io/badge/-Java-007396.svg?logo=java&style=plastic"><img src="https://img.shields.io/badge/-JavaScript-D4BE08.svg?logo=javascript&logoColor=white&style=flat"><img src="https://img.shields.io/badge/-Dart-99ccff.svg?logo=dart&style=plastic"><img src="https://img.shields.io/badge/-C%20lang-ffcc99.svg?logo=c&style=plastic"><img src="https://img.shields.io/badge/-PHP-white.svg?logo=PHP&style=plastic"><br />Java, Javascript, Dart, C, PHP                                                                 |
 | Semi-Proficient Computer Languages     | <img src="https://img.shields.io/badge/-Julia-66ffb2.svg?logo=julia&style=plastic"><img src="https://img.shields.io/badge/-C%23-239120.svg?logo=c-sharp&logoColor=white&style=flat"><img src="https://img.shields.io/badge/-C%EF%BC%83-ff99ff.svg?logo=C%20Sharp&style=plastic"><br />Julia, C++, C#                                                                                                                                                                                                                                             |
 | Intermediate Computer Languages        | <img src="https://img.shields.io/badge/-Go-76E1FE.svg?logo=go&style=plastic"><img src="https://img.shields.io/badge/-Rust-000000.svg?logo=rust&style=plastic"><img src="https://img.shields.io/badge/-Scheme-blue.svg?logo=Scheme&style=plastic"><img src="https://img.shields.io/badge/-Racket-red.svg?logo=Racket&style=plastic"><img src="https://img.shields.io/badge/-Fantom-blue.svg?logo=Fantom&style=plastic"><img src="https://img.shields.io/badge/-Lua-2C2D72.svg?logo=lua&style=plastic"><br />Go, Rust, Scheme, Racket, Fantom, Lua |
 | Semi-Intermediate Computer Languages   | <img src="https://img.shields.io/badge/-Ruby-CC342D.svg?logo=ruby&style=plastic"><img src="https://img.shields.io/badge/-Haskell-5D4F85.svg?logo=haskell&style=plastic"><img src="https://img.shields.io/badge/-Scala-DC322F.svg?logo=scala&style=plastic"><br />Ruby, Haskell, Scala, HSP                                                                                                                                                                                                                                                       |
-| Bigener Computer Languages             | <img src="https://img.shields.io/badge/-Ocaml-EC6813.svg?logo=ocaml&style=plastic"><img src="https://img.shields.io/badge/-Octave-55c2e1.svg?logo=Octave&style=plastic"><br />F#, OCaml, Octave, Nasm(NetWide Assembly)                                                                                                                                                                                                                                                                                                                          |
-| Making Computer Languages              | FunCobal family, 猷言語(Yew Language), <!--十書(Jissho)-->TsaaScript, 投壺(Touko), ChestDD                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| Main-use Frameworks                    | <img src="https://img.shields.io/badge/-Flutter-02569B.svg?logo=flutter&style=plastic"><br />AngularDart(Dart), Flutter(Dart), Aqueduct(Dart), Cargo(Rust)                                                                                                                                                                                                                                                                                                                                                                                       |
+| Bigener Computer Languages             | <img src="https://img.shields.io/badge/-Ocaml-EC6813.svg?logo=ocaml&style=plastic"><img src="https://img.shields.io/badge/-Octave-55c2e1.svg?logo=Octave&style=plastic"><br />F#, OCaml, Octave, Nasm(NetWide Assembly) |
+| Making Computer Languages              | FunCobal family, 猷言語(Yew Language), <!--十書(Jissho)-->TsaaScript, 投壺(Touko), ChestDD |
+| Main-use Frameworks                    | <img src="https://img.shields.io/badge/-Flutter-02569B.svg?logo=flutter&style=plastic"><br />AngularDart(Dart), Flutter(Dart), Aqueduct(Dart), Cargo(Rust) |
 | Making-use Systems                     | <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat"><img src="https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=plastic"><img src="https://img.shields.io/badge/-LaTeX-008080.svg?logo=latex&logoColor=white&style=flat"><br />VSCode, Git, pLaTeX, QGIS, MediaWiki, WordPress                                                                                                                                                                                               |
 | Formats Understood                     | <img src="https://img.shields.io/badge/-JSON-gray.svg?logo=JSON&style=plastic"><img src="https://img.shields.io/badge/-Html5-E34F26.svg?logo=html5&style=plastic"><img src="https://img.shields.io/badge/-Css3-1572B6.svg?logo=css3&style=plastic"><img src="https://img.shields.io/badge/-LaTeX-008080.svg?logo=latex&logoColor=white&style=flat"><img src="https://img.shields.io/badge/-SVG-yellowgreenblue.svg?logo=SVG&style=plastic"><br />JSON, YAML, TOML, Chess, XML, SGML, (X)HTML, CSS, SVG, PNG, PDF, TeX                            |
 
@@ -135,30 +135,35 @@ Funlier(m.)/Funlière(f.)<br />
 
 | Service   | Ext | User Identifer                        | Proper Name                                                            | Description          |
 | --------- | --- | ------------------------------------- | ---------------------------------------------------------------------- | -------------------- |
-| Twitter   | TN  | @Distr_to_Yonder                            | いぶきさん.fan (走水伊吹/佐藤陽花)＠自作プログラミング言語「FunCobal」 | メイン＆学術研究垢   |
-<!--| Twitter   | TA  | @Halka_ac_nu                          | はるか ＆ あかでみあ(佐藤陽花/松永拓也)＠日本大学理工学部              | 学術研究垢           |
-| Twitter   | TP  | @Haruka_Sato_RZ                       | Haruka Sato ( Takuya Matsunaga / La Resisdance)                        | 公用垢               |
-| Twitter   | TC  | @cityo_math                           | 複素数＠世界へ                                                         | サブ垢——数集合界隈垢 |-->
-| Mastodon  | MQ  | @halka9000@qoto.org                   | いぶきさん(走水伊吹) / 佐藤陽花                                        | メイン垢             |
-| Mastodon  | MR  | @halka9000@ruby.social                | Halka9000@computer_lang                                                | コンピュータ言語垢   |
-<!--| Mastodon  | ML  | @halka_somese@mastodon.levome-dol.com | いぶきさん(Haruka Sato)                                                | ゐてにゃサーバ垢     |
-| Misskey   | MS  | @halka_somese@misskey.levome-dol.com  | いぶきさん(Haruka Sato)                                                | ゐてにゃサーバ 垢    |-->
-| Discord   | DC  | @佐藤陽花#7369@discord.com            | 佐藤陽花#7369                                                          | Discord              |
-| Facebook  | FB  | @takuya.m.acd.sw@facebook.com         | Haruka Sato (松永拓也)                                                 | Facebook             |
-| VKontakte | VK  | @ @vk.com                             | \*\*\*                                                                 | VK                   |
-| Telegram  | TG  | @lanhueiyang9000@telegram.org         | Kaoru Ohkouchi                                                         | Telegram             |
-<!--| NSNS      | NS  | @haruka_dev@t-nsns.dev-pack.org       | 佐藤陽花：分散 NSNS 計画試験                                           | NSNS プロジェクト    |-->
-| GitHub    | GH  | @halka9000stg@github.com              | 佐藤陽花                                                               | Git                  |
-
-<!--| D-Twitter | DT   | @haruka_dev@dev.tokyo.twitter.com       | 佐藤陽花：分散 Twitter 計画試験 | 鍵リア垢． | -->
+| Twitter   | TN  | [@Distr_to_Yonder@twitter.com](https://twitter.com/Distr_to_Yonder) | 🍤超越基底 (佐藤陽花/藍徽陽/玻名城未涼/エヤィヌニタㇰ/八居実陽) | メイン＆学術研究垢   |　
+| Mastodon  | MQ  | [@halka9000@qoto.org](https://qoto.org/@halka9000) | いぶきさん(走水伊吹) / 佐藤陽花 | メイン垢             |
+| Mastodon  | MR  | [@halka9000@ruby.social](https://ruby.social/@halka9000) | Halka9000@computer_lang | コンピュータ言語垢   |
+| GitHub    | GH  | [@halka9000stg@github.com](https://github.com/halka9000stg/) | 佐藤陽花 | Git           |
+| OSDN      | OS  | [@halka9000stg@osdn.net](https://osdn.net/users/halka9000stg/) | 佐藤陽花 (Haruka Sato) | Mercurial           |
+| GitLab    | GL  | [@halka9000stg@gitlab.com](https://gitlab.com/halka9000stg) | 佐藤陽花 | Git           |
+| Discord   | DC  | [@佐藤陽花#7369@discord.com](https://discord.com)| 佐藤陽花#7369 | Discord |
+| Facebook  | FB  | [@haruka.doth.serve@facebook.com](https://www.facebook.com/haruka.doth.serve)         | Haruka Sato (松永拓也) | Facebook    |
+| VKontakte | VK  | [@haruka.doth.serve@vk.com](https://vk.com/haruka.doth.serve) | Haruka Sato          | VK                   |
+| Telegram  | TG  | [@lanhueiyang9000@telegram.org](t.me/lanhueiyang9000)         | Kaoru Ohkouchi | Telegram             |
+<!--
+| Mastodon  | ML  | @halka_somese@mastodon.levome-dol.com | いぶきさん(Haruka Sato)                                                | ゐてにゃサーバ垢     |
+| Misskey   | MS  | @halka_somese@misskey.levome-dol.com  | いぶきさん(Haruka Sato)                                                | ゐてにゃサーバ 垢    |
+| Twitter   | TA  | @Halka_ac_nu                          | はるか ＆ あかでみあ(佐藤陽花/松永拓也)＠日本大学理工学部              | 学術研究垢           |
+| Twitter   | TP  | @Haruka_Sato_RZ                       | Haruka Sato ( Takuya Matsunaga / La Resisdance)              | 公用垢               |
+| Twitter   | TC  | @cityo_math                           | 複素数＠世界へ                                  | サブ垢——数集合界隈垢 |
+| NSNS      | NS  | @haruka_dev@t-nsns.dev-pack.org       | 佐藤陽花：分散 NSNS 計画試験        | NSNS プロジェクト    |
+| D-Twitter | DT   | @haruka_dev@dev.tokyo.twitter.com       | 佐藤陽花：分散 Twitter 計画試験 | 鍵リア垢． |
+-->
 
 ## Related DNS Domains
 
 | Domain name    | Status(es) | Description                          |
 | -------------- | ---------- | ------------------------------------ |
-<!--| supoijar.org   | \*\*\*     | supoijar .org メインドメイン         |-->
-| dev-pack.org   | \*\*\*     | developersPackages メインドメイン    |
-<!--| bssfe.org      | \*\*\*     | 學民同盟系列共通ドメイン             |
+| [dev-pack.org](xhd.dev-pack.org/domain/)   | active    | developersPackages メインドメイン    |
+
+<!--
+| supoijar.org   | \*\*\*     | supoijar .org メインドメイン         |
+| bssfe.org      | \*\*\*     | 學民同盟系列共通ドメイン             |
 | seitokai.or.jp | \*\*\*     | 生徒会(学生会等含む)関係共通ドメイン |
 | funcobal.fun   | \*\*\*     | FunCobal family メインドメイン       |
 | leaves.fun     | \*\*\*     | Leaves メインドメイン                |
@@ -167,9 +172,10 @@ Funlier(m.)/Funlière(f.)<br />
 | touko.jp       | \*\*\*     | 投壺(Touko)メインドメイン            |
 | nut.app        | \*\*\*     | 日本大学学生情報基盤計画試験         |
 -->
+
 ## Enrollments
 
-<h> DevelopersPackages</h>
+<h> [DevelopersPackages.org](xhd.dev-pack.org)</h>
 
 常務代表, サーバ管理者, システム管理者, 経理/法務担当
 <!--
