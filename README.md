@@ -159,7 +159,7 @@ Funlier(m.)/Funlière(f.)<br />
 
 | Domain name    | Status(es) | Description                          |
 | -------------- | ---------- | ------------------------------------ |
-| [dev-pack.org](xhd.dev-pack.org/domain/)   | active    | developersPackages メインドメイン    |
+| [https://dev-pack.org](xhd.dev-pack.org/domain/)   | active    | [DevelopersPackages.org](https://xhd.dev-pack.org) メインドメイン    |
 
 <!--
 | supoijar.org   | \*\*\*     | supoijar .org メインドメイン         |
@@ -175,7 +175,7 @@ Funlier(m.)/Funlière(f.)<br />
 
 ## Enrollments
 
-<h> [DevelopersPackages.org](xhd.dev-pack.org)</h>
+<h> [DevelopersPackages.org](https://xhd.dev-pack.org) </h>
 
 常務代表, サーバ管理者, システム管理者, 経理/法務担当
 <!--
