@@ -159,7 +159,7 @@ Funlier(m.)/Funlière(f.)<br />
 
 | Domain name    | Status(es) | Description                          |
 | -------------- | ---------- | ------------------------------------ |
-| [https://dev-pack.org](xhd.dev-pack.org/domain/)   | active    | [DevelopersPackages.org](https://xhd.dev-pack.org) メインドメイン    |
+| [dev-pack.org](xhd.dev-pack.org/domain/)   | active    | [DevelopersPackages.org](https://xhd.dev-pack.org) メインドメイン    |
 
 <!--
 | supoijar.org   | \*\*\*     | supoijar .org メインドメイン         |
