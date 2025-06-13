@@ -307,7 +307,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 67.4kb of code in 88 edited files across 156 commits over last 30 days</small>
+                <small>estimation from 63.8kb of code in 66 edited files across 112 commits over last 30 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -325,7 +325,7 @@
                                 Dart
                             </div>
                             <small>
-                                <div>32.2 kB</div>
+                                <div>30 kB</div>
                                 <div>100%</div>
                             </small>
                         </div>
@@ -336,7 +336,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Jun 2025, 02:06:09  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Jun 2025, 04:35:48  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
